@@ -1,0 +1,12 @@
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplicationTest.dll
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplicationTest.pdb
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplicationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplication.exe
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplication.pdb
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplicationTest\bin\Debug\SomeConsoleApplication.exe.config
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplicationTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.csproj.AssemblyReference.cache
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.csproj.CoreCompileInputs.cache
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplicationTest\obj\Debug\SomeCons.F8B3DF7D.Up2Date
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.dll
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplicationTest\obj\Debug\SomeConsoleApplicationTest.pdb

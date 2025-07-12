@@ -1,0 +1,7 @@
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe.config
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.exe
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplication\bin\Debug\SomeConsoleApplication.pdb
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.csproj.AssemblyReference.cache
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.csproj.CoreCompileInputs.cache
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.exe
+C:\AsecurityGuru\CaseStudy-DevSecOps\devsecops-dotnet-github-actions-end-to-end-assignment\SomeConsoleApplication\obj\Debug\SomeConsoleApplication.pdb

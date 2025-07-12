@@ -1,11 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeConsoleApplication", "SomeConsoleApplication\SomeConsoleApplication.csproj", "{96FED58B-6B13-4B22-9D88-8CA270701FF5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomeConsoleApplicationTest", "SomeConsoleApplicationTest\SomeConsoleApplicationTest.csproj", "{69A603A4-4241-4F3B-846C-E95307293CF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{DA41D3E1-624E-480D-9FC5-E3C4C3ADA7CF}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\devsecops-workflow.yaml = .github\workflows\devsecops-workflow.yaml
+		.github\workflows\devsecops-workflow.yml = .github\workflows\devsecops-workflow.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
